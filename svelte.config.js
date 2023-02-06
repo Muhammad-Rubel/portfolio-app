@@ -16,7 +16,7 @@ const config = {
 			strict: true
 		}),
 		paths: {
-			base: '/my-portfolio'
+			base: '/portfolio-app'
 		}
 	}
 };
