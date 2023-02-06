@@ -1,1 +1,1 @@
-<h1>Welcome to My Portfolio</h1>
+<h1 class="text-blue-700 font-bold">Welcome to My Portfolio</h1>
