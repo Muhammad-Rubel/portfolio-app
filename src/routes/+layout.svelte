@@ -1,4 +1,8 @@
+<script>
+	import '../css/app.css';
+</script>
+
 <div>
-	<p>Test</p>
+	<p class="text-5xl text-red-700">Test</p>
 	<slot />
 </div>
