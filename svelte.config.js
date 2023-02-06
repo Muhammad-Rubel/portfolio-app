@@ -14,10 +14,10 @@ const config = {
 			fallback: null,
 			precompress: false,
 			strict: true
-		}),
-		paths: {
-			base: '/portfolio-app'
-		}
+		})
+		// paths: {
+		// 	base: '/portfolio-app'
+		// }
 	}
 };
 
