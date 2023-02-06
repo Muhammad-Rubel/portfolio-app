@@ -1,5 +1,5 @@
 <script>
-	// import '/tailwind.css';
+	import '../css/tailwind.css';
 </script>
 
 <div>
